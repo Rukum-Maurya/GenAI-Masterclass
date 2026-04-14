@@ -1,0 +1,4 @@
+Transaction_ID,Customer_Name,Item_Price,Quantity,Status,Total_Revenue
+1001,Alice,25.5,2.0,Completed,51.0
+1002,Bob,46.375,1.0,Completed,46.375
+1004,David,45.0,3.0,Completed,135.0

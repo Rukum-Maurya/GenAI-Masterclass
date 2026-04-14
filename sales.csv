@@ -1,0 +1,7 @@
+Transaction_ID,Customer_Name,Item_Price,Quantity,Status
+1001,Alice,25.50,2,Completed
+1002,Bob,,1,Completed
+1003,Charlie,15.00,,Pending
+1004,David,45.00,3,Completed
+1005,,10.00,5,Completed
+1006,Eve,100.00,1,Failed
